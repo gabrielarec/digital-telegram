@@ -5,3 +5,4 @@
 <li> Added a web page title.</li>
 <li> CSS and HTML files are properly commented.</li>
 <li> Consolidates repetitive styles.</li>
+<li> Added missing atl attributes. </li>
