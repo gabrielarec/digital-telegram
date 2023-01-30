@@ -11,5 +11,4 @@
 <li> Added missing atl attributes. </li>
 
 <h1> Link to deployed application:</h1>
-<http://127.0.0.1:5501/Develop/index.html/>
-
+<a href="http://127.0.0.1:5501/Develop/index.html"> Digital telegam </a>
