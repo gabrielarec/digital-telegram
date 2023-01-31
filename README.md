@@ -11,4 +11,4 @@
 <li> Added missing atl attributes. </li>
 
 <h1> Link to deployed application:</h1>
-<a href="http://127.0.0.1:5501/Develop/index.html"> Digital telegam </a>
+<a href="https://gabrielarec.github.io/telegram-digital/"> Digital telegam </a>
